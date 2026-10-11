@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="FUsci"
+run/main_scene="uid://bwr0cua64b2v4"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 
 [autoload]
@@ -51,6 +52,20 @@ variables={}
 layout/style_list=["res://FUsciStyle.tres"]
 layout/default_style="res://FUsciStyle.tres"
 glossary/default_case_sensitive=true
+audio/channel_defaults={
+"": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": false,
+"volume": 0.0
+},
+"music": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": true,
+"volume": 0.0
+}
+}
 
 [display]
 
