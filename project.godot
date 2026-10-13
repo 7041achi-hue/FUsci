@@ -21,10 +21,10 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"Armyห์": "res://Armyห์.dch"
+"Armyห์": "res://dialogic/Armyห์.dch"
 }
 directories/dtl_directory={
-"intro": "res://intro.dtl"
+"intro": "res://dialogic/intro.dtl"
 }
 layout/style_directory={
 "": "res://FUsciStyle.tres",
