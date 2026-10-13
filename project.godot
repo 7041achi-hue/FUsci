@@ -12,6 +12,7 @@ config_version=5
 
 config/name="FUsci"
 config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="uid://3ey02pac3hx7"
 
 [autoload]
 
