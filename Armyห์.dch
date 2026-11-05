@@ -1,0 +1,40 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+&"_translation_id": "",
+&"color": Color(1, 1, 1, 1),
+&"custom_info": {
+"prefix": "",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+&"default_portrait": "scared army",
+&"description": "น้อลอามี่",
+&"display_name": "Army",
+&"mirror": false,
+&"nicknames": ["อามี่"],
+&"offset": Vector2(0, 0),
+&"portraits": {
+"Army-butmorescared": {
+"export_overrides": {
+"image": "\"res://Army-2 (1).png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"scared army": {
+"export_overrides": {
+"image": "\"res://Army-1 (2).png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+&"scale": 1.0
+}
