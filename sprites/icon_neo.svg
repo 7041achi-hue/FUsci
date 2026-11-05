@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1{fill:#ffffff}
+      .cls-2{fill:#ffffff;stroke:#000000;stroke-width:5;stroke-miterlimit:10}
+    </style>
+  </defs>
+  <title>icon.svg</title>
+  <g id="Background">
+    <path d="M0 0 L128 0 L128 128 L0 128 Z" class="cls-1"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M9.132 9.554" class="cls-2"/>
+    <path d="M54.308 9.554 L5.859 9.554 L5.859 130.684" class="cls-2"/>
+    <path d="M54.308 35.001 L5.859 35.001" class="cls-2"/>
+    <path d="M76.559 6.349 L76.559 33.151 L96.851 57.244 L117.143 33.151 L117.143 6.349" class="cls-2"/>
+    <path d="M55.832 67.346 L37.743 49.257 L19.653 67.346 L55.832 104.602 L37.743 122.692 L19.653 104.602" class="cls-2"/>
+    <path d="M105.704 88.115 L87.708 70.119 L60.619 97.208 L87.708 124.297 L105.704 106.301" class="cls-2"/>
+    <path d="M119.643 79.752 L119.643 128" class="cls-2"/>
+    <path d="M117.143 70.119 C117.143 68.738 118.262 67.619 119.643 67.619 C121.023 67.619 122.143 68.738 122.143 70.119 C122.143 71.5 121.023 72.619 119.643 72.619 C118.262 72.619 117.143 71.5 117.143 70.119 Z" class="cls-2"/>
+  </g>
+</svg>
