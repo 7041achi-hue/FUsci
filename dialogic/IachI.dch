@@ -10,25 +10,25 @@
 "style": "",
 "suffix": ""
 },
-&"default_portrait": "scared army",
-&"description": "น้อลอามี่",
-&"display_name": "Army",
+&"default_portrait": "cute normal",
+&"description": "",
+&"display_name": "IachI",
 &"mirror": false,
-&"nicknames": ["อามี่"],
+&"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-"Army-butmorescared": {
+"cute normal": {
 "export_overrides": {
-"image": "\"res://Army-2 (1).png\""
+"image": "\"res://sprites/IachI-1.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
 },
-"scared army": {
+"guiding": {
 "export_overrides": {
-"image": "\"res://Army-1 (2).png\""
+"image": "\"res://sprites/IachI-2.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),

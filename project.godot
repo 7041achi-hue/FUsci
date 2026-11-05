@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="FUsci"
+run/main_scene="uid://chsnfd074cy2d"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 
 [autoload]
@@ -20,16 +21,14 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"Armyห์": "res://Armyห์.dch",
-"IachI": "res://IachI.dch",
-"dialogic/Armyห์": "res://vn-/dialogic/Armyห์.dch",
-"narator": "res://narator.dch",
-"vn-/IachI": "res://vn-/IachI.dch"
+"Armyห์": "res://dialogic/Armyห์.dch",
+"IachI": "res://dialogic/IachI.dch",
+"dialogic/narator": "res://dialogic/narator.dch",
+"narator": "res://dialogic/narator.dch"
 }
 directories/dtl_directory={
-"chapter-1": "res://chapter-1.dtl",
-"dialogic/intro": "res://vn-/dialogic/intro.dtl",
-"intro": "res://intro.dtl"
+"chapter-1": "res://dialogic/chapter-1.dtl",
+"intro": "res://dialogic/intro.dtl"
 }
 layout/style_directory={
 "": "res://FUsciStyle.tres",

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://co8rgnqe4iiwa"
-path="res://.godot/imported/Army-2 (1).png-9b96301bcafe8d39e5a804a24b974ea3.ctex"
+uid="uid://p88u1lb7hp7p"
+path="res://.godot/imported/IachI-2.png-9ef28e64956f82331b46c7e1473f5f9b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Army-2 (1).png"
-dest_files=["res://.godot/imported/Army-2 (1).png-9b96301bcafe8d39e5a804a24b974ea3.ctex"]
+source_file="res://sprites/IachI-2.png"
+dest_files=["res://.godot/imported/IachI-2.png-9ef28e64956f82331b46c7e1473f5f9b.ctex"]
 
 [params]
 

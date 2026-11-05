@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwsc2hvl2c845"
-path="res://.godot/imported/IachI-1.png-7fea99ee6927c76f3d18d6e5d7fa5c88.ctex"
+path="res://.godot/imported/IachI-1.png-9cad14b3f7ee79f57e997e6ebdc4dfd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://IachI-1.png"
-dest_files=["res://.godot/imported/IachI-1.png-7fea99ee6927c76f3d18d6e5d7fa5c88.ctex"]
+source_file="res://sprites/IachI-1.png"
+dest_files=["res://.godot/imported/IachI-1.png-9cad14b3f7ee79f57e997e6ebdc4dfd2.ctex"]
 
 [params]
 
