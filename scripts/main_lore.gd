@@ -3,5 +3,5 @@ extends Node
 func _ready() -> void:
 	Dialogic.start("intro")
 	await Dialogic.timeline_ended
-	Signals.chap_spls.emit(1, "The Beginning")
+	await ChapSplash.play_chap_spls(1, "The Begining")
 	get_tree().quit()
