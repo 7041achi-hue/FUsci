@@ -8,7 +8,6 @@ func _ready() -> void:
 	chap.modulate.a = 0
 	chap_name.modulate.a = 0
 	bg.modulate.a = 0
-	$"/root/Signals".chap_spls.connect(play_chap_spls)
 
 func play_chap_spls(chap_num: int, chap_title: String) -> void:
 	chap.text = "Chapter %d" % chap_num

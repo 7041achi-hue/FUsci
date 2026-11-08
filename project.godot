@@ -24,7 +24,6 @@ ChapSplash="*uid://ddtgj6e51ntnb"
 directories/dch_directory={
 "Armyห์": "res://dialogic/Armyห์.dch",
 "IachI": "res://dialogic/IachI.dch",
-"dialogic/narator": "res://dialogic/narator.dch",
 "narator": "res://dialogic/narator.dch"
 }
 directories/dtl_directory={
